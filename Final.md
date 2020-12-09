@@ -1,3 +1,3 @@
 # TwineGameFinal
 
-[Play here](TwineGameFinal/TwineGameFinal.html)
+[Play here](TwineGameFinal.html)
